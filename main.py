@@ -7,5 +7,5 @@ def main():
     edad = int(input("¿Cuántos años tienes? "))
     print("{} tienes {} años y en un año tendrás {} años".format(nombre, edad, edad + 1))
 
-#print("Bienvenido a mi programa")
+print("Bienvenido a mi programa")
 main()
