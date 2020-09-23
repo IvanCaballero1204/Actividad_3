@@ -15,5 +15,5 @@ def main():
     area_dona = areas.dona()
     print("El area de tu dona es igual a: {}".format(area_dona))
 
-print("Bienvenido a main")
+#print("Bienvenido a main")
 main()
